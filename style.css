@@ -1,1 +1,8 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+.icon-dark {
+  fill: white;
+}
+
+.mode-icon:hover {
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */
