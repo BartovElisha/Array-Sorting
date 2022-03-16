@@ -136,7 +136,7 @@ function prepareSplitedArrays(array) {
     }   
     globalArray1 = [...sortUp(globalArray1)];
     globalArray2 = [...sortUp(globalArray2)];
-    globalArray3 = [...sortUp(globalArray2)];
+    globalArray3 = [...sortUp(globalArray3)];
     
 }
 
